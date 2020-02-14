@@ -16,7 +16,7 @@ public class CurrentConditionsDisplay implements Observer, DisplayElement {
 	Observable observable;
 
 	/**
-	 * 每一个观察者（Observer）注册的都是同一个主题（weatherData） 类实例创建的时候，就已经注册上了主题
+	 * 每一个观察者（Observer）注册的都是同一个主题（weatherData） 类实例创建的时候，就已经注册(addObsever)上了主题
 	 */
 	public CurrentConditionsDisplay(Observable observable) {
 		// TODO Auto-generated constructor stub

@@ -24,7 +24,7 @@ public abstract class Duck {
 	}
 	
 	public void setFlyBehavior(FlyBahavior fb) {
-		flybehavior = fb;
+		this.flybehavior = fb;
 	}
 	/**
 	 * 可以随时更换 调用这两个方法
