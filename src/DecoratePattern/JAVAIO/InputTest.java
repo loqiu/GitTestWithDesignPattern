@@ -11,6 +11,8 @@ public class InputTest {
 		try {
 			/**
 			 * 体现装饰者的层层嵌套
+			 * 外面所有的类都是用来包装底层的inputstream的
+			 * 这样使得程序变得有弹性
 			 */
 			InputStream in = new LowerCaseInputStream(new BufferedInputStream(new FileInputStream("")));
 
