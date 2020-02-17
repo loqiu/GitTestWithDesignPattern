@@ -1,6 +1,6 @@
 package FactoryPattern.FinalFacroty.Pizzas;
 
-import FactoryPattern.FinalFacroty.PizzaIngredientFactory;
+import FactoryPattern.FinalFacroty.PizzaIngredient.PizzaIngredientFactory;
 
 public class CheesePizza extends Pizza {
 	PizzaIngredientFactory factory;

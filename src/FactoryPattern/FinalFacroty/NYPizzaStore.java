@@ -1,6 +1,7 @@
 package FactoryPattern.FinalFacroty;
 
 import FactoryPattern.FinalFacroty.PizzaIngredient.NYPizzaIngredientFactory;
+import FactoryPattern.FinalFacroty.PizzaIngredient.PizzaIngredientFactory;
 import FactoryPattern.FinalFacroty.Pizzas.CheesePizza;
 import FactoryPattern.FinalFacroty.Pizzas.Pizza;
 

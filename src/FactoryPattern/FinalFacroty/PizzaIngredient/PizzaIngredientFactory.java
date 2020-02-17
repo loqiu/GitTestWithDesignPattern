@@ -1,4 +1,4 @@
-package FactoryPattern.FinalFacroty;
+package FactoryPattern.FinalFacroty.PizzaIngredient;
 
 import FactoryPattern.FinalFacroty.PizzaIngredient.*;
 

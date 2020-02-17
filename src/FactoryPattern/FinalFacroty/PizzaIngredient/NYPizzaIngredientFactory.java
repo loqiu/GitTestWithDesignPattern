@@ -1,6 +1,5 @@
 package FactoryPattern.FinalFacroty.PizzaIngredient;
 
-import FactoryPattern.FinalFacroty.PizzaIngredientFactory;
 
 public class NYPizzaIngredientFactory implements PizzaIngredientFactory {
 
