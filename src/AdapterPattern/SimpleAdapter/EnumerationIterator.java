@@ -1,5 +1,7 @@
 package AdapterPattern.SimpleAdapter;
-
+/**
+ * 枚举的适配器迭代器
+ */
 import java.util.Enumeration;
 import java.util.Iterator;
 
